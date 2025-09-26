@@ -55,7 +55,7 @@ print(cm)
 ## Output:
 
 
-![Uploading image.png…]()
+<img width="717" height="388" alt="image" src="https://github.com/user-attachments/assets/201964ae-06d2-4cf7-805d-a9f95acaf74f" />
 
 
 ## Result:
